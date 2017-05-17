@@ -7,6 +7,7 @@ var messages = {
     'fr': 'Français',
     'pt-br': 'Português',
     'es': 'Español',
+    'az': 'Azərbaycanca',
     'ru': 'Русский',
     'fa': 'فارسی',
     'zh-cn': '简体中文',
@@ -34,6 +35,7 @@ var messages = {
     'fr': 'Suivant',
     'pt-br': 'Próximo',
     'es': 'Siguiente',
+    'az': 'Növbəti',
     'ru': 'Следующий',
     'fa': 'مرحله بعدی',
     'zh-cn': '继续',
@@ -61,6 +63,7 @@ var messages = {
     'fr': 'Flexbox Froggy est créé par',
     'pt-br': 'Flexbox Froggy foi criado por',
     'es': 'Flexbox Froggy es una creación de',
+    'az': 'Flexbox Froggy oyununun yaradıcıları',
     'ru': 'Игра Flexbox Froggy создана',
     'fa': 'قورباغه فلکس باکس ساخته شده توسط',
     'zh-cn': 'Flexbox Froggy的作者是',
@@ -88,6 +91,7 @@ var messages = {
     'fr': 'Niveau',
     'pt-br': 'Nível',
     'es': 'Nivel',
+    'az': 'Səviyyə',
     'ru': 'Уровень',
     'fa': 'مرحله',
     'zh-cn': 'Level',
@@ -115,6 +119,7 @@ var messages = {
     'fr': 'de',
     'pt-br': 'de',
     'es': 'de',
+    'az': '/',
     'ru': 'из',
     'fa': 'از',
     'zh-cn': '/',
@@ -142,6 +147,7 @@ var messages = {
     'fr': 'Flexbox Froggy - Un jeu pour apprendre les flexbox CSS',
     'pt-br': 'Flexbox Froggy - Um jogo para aprender CSS flexbox',
     'es': 'Flexbox Froggy - Un juego para aprender CSS flexbox',
+    'az': 'Flexbox Froggy - CSS Flexbox-u öyrənmək üçün oyun',
     'ru': 'Flexbox Froggy - Игра для изучения CSS Flexbox',
     'fa': 'قورباغه فلکس باکس - یک بازی جذاب برای آموزش سی اس اس فلکس باکس',
     'zh-cn': 'Flexbox Froggy - 一个用来学CSS flexbox的游戏',
@@ -169,6 +175,7 @@ var messages = {
     'fr': 'Réinitialiser',
     'pt-br': 'Reinicializar',
     'es': 'Reiniciar',
+    'az': 'Sıfırla',
     'ru': 'Сбросить',
     'fa': 'شروع مجدد',
     'zh-cn': '重置',
@@ -196,6 +203,7 @@ var messages = {
     'fr': 'Êtes-vous certain de vouloir réinitialiser la partie?\n\nVotre progrès sauvegardé sera perdu et vous recommencerez au début du jeu.',
     'pt-br': 'Você tem certeza que quer reinicializar o jogo?\n\nSeu progresso salvo será perdido e você voltará ao começo do jogo.',
     'es': 'Estás seguro, ¿Quieres reiniciar el juego?\n\nTu progreso se perderá y serás enviado al inicio del juego.',
+    'az': 'Oyunu yenidən başlamağa əminsiniz?\n\nBu zaman bütün keçirilən səviyyələr itiriləcək və siz başlanğıc səviyyəyə qaytarılacaqsınız.',
     'ru': 'Вы действительно хотите сбросить игру?\n\nВаш прогресс будет потерян и вы вернетесь к началу игры.',
     'fa': 'آیا از شروع مجدد بازی اطمینان دارید ?\n\nتمام مراحل ذخیره شده حذف خواهند شد.',
     'zh-cn': '你确定要重置游戏吗?\n\n你保存了的进度将会丢失，而且你会回到游戏的最开始。',
@@ -216,6 +224,7 @@ var messages = {
     'nl': 'Bent u zeker dat u het spel wilt resetten?\n\nJe vooruitgang zal verloren gaan, en je zal helemaal opnieuw moeten beginnen.',
   },
   gridGarden: {
-    'en': 'Want to learn CSS grid? Play'
+    'en': 'Want to learn CSS grid? Play',
+    'az': 'CSS grid-i öyrənmək istəyirsiniz? O zaman:'
   }
 };
